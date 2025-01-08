@@ -1,0 +1,2 @@
+archivo2.txt 
+esta es la primera version de este segundo archivo 
